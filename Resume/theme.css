@@ -1,0 +1,57 @@
+html { 
+    background: url("background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Courier, monospace;
+  }
+
+h1{
+    font-weight: 100000;
+    font-family: Courier, monospace;
+        letter-spacing: 4;
+        font-size: 32px;
+        
+}
+
+
+h4{
+    font-weight: 550;
+    font-size:20px;
+}
+
+.prof-box{
+    width:400px;
+    height: 1000px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top:140px; 
+    text-align: center;    
+}
+
+.prof-pic{
+    border-radius: 50%;
+    height:200px;
+    
+}
+
+
+.icons{
+    font-size:25px;
+}
+.icons:hover{
+   
+    font-size: 50px;
+    color: peru;
+    
+}
+
+
+
+
+.icons a{
+    color: white;
+}
